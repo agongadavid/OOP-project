@@ -8,7 +8,7 @@ oop project for end of semester
 1. Constants: 
 The application has constants for the number of students and subjects, and an array of subject names.
 
-2 .Student Class:
+2. Student Class:
 This inner class holds the data of each student, including name, ID, scores, average score, grade, and recommendation.
 
 3. Main Method:
@@ -17,7 +17,9 @@ Calls methods to read student data and scores, calculate averages and grades, an
 
 4. Methods:
 readStudentDetailsAndScores: Reads the name, ID, and scores of all students.
+
 calculateAverageAndGrade: Calculates the average score and provides a grade and recommendation based on the average.
+
 displayReportCard: Prints the report card for all students, including their scores, average, grade, recommendation, and the date.
 
 ```java
