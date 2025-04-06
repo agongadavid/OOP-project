@@ -16,11 +16,11 @@ Creates a Scanner for input and an array of Student objects.
 Calls methods to read student data and scores, calculate averages and grades, and print report cards.
 
 4. Methods:
-readStudentDetailsAndScores: Reads the name, ID, and scores of all students.
+- readStudentDetailsAndScores: Reads the name, ID, and scores of all students.
 
-calculateAverageAndGrade: Calculates the average score and provides a grade and recommendation based on the average.
+- calculateAverageAndGrade: Calculates the average score and provides a grade and recommendation based on the average.
 
-displayReportCard: Prints the report card for all students, including their scores, average, grade, recommendation, and the date.
+- displayReportCard: Prints the report card for all students, including their scores, average, grade, recommendation, and the date.
 
 ```java
 import java.util.Scanner;
