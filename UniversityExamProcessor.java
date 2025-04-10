@@ -3,7 +3,7 @@ import java.time.LocalDate;
 
 public class UniversityExamProcessor {
     
-    static final int NUM_STUDENTS = 10;
+    static final int NUM_STUDENTS = 3;
     static final int NUM_SUBJECTS = 5;
     static String[] subjectNames = {"Programming 1", "Database", "Accounting", "web Development", "Data Structure"};
     
