@@ -5,6 +5,8 @@ oop project for end of semester
 - Douglas Elton 138469
 - Kambale Mulumba Enock 196410
   
+## Code function explanation
+
 1. Constants: 
 The application has constants for the number of students and subjects, and an array of subject names.
 
